@@ -1,4 +1,4 @@
-# NodeJS Ecommerce Development
+# NodeJS E-commerce Development
 
 ## developed by tapos ghosh
 
