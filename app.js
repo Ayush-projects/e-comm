@@ -55,6 +55,11 @@ app.use(function(req, res, next) {
   next();
 });
 
+
+app.get("/test", (req,res)=>{
+  res.send("Hello")
+})
+
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use('/admin/add-category',addCategoryRouter)
