@@ -21,5 +21,7 @@ jobs:
        with:
           commit_message: Apply formatting changes
           branch: ${{ github.head_ref }}
+     - name: Restart Server
+       run: pm2 restart backend
      
     
