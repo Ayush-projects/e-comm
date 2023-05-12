@@ -1,25 +1,23 @@
-# NodeJS E-commerce Development
+# Ecommerce Web Application
+**_Client side_**
+![Capture](https://user-images.githubusercontent.com/66724840/87241202-13f21180-c43a-11ea-9df6-43e59abc5248.PNG)
+**_Admin side_**
+![wqw](https://user-images.githubusercontent.com/66724840/87241245-721ef480-c43a-11ea-92ee-58ca214fbef7.PNG)
 
-## developed by tapos ghosh
+**project Demo**
+https://ecommerce-dem0.herokuapp.com/
 
-![alt text](https://github.com/tapos007/eCommerce-node-js/blob/master/public/images/1.PNG "Home Page")
 
-### Display Product ALL Information
+Demo credentials
+Admin User:
+- User: `admin`
+- Password: `admin1234`
 
-![alt text](https://github.com/tapos007/eCommerce-node-js/blob/master/public/images/2.PNG "Product list ")
+Customer:
+- User: `user`
+- Password: `1234`
 
-### Display Single Product View
-
-![alt text](https://github.com/tapos007/eCommerce-node-js/blob/master/public/images/6.PNG "Product list ")
-
-### Display Admin Product List with add Product option
-
-![alt text](https://github.com/tapos007/eCommerce-node-js/blob/master/public/images/3.PNG "Admin Display all product")
-
-### Display Admin Product Edit option
-
-![alt text](https://github.com/tapos007/eCommerce-node-js/blob/master/public/images/4.PNG "Admin Product Edit")
-
-### Display Admin Product related Image Upload
-
-![alt text](https://github.com/tapos007/eCommerce-node-js/blob/master/public/images/5.PNG "Admin Image Upload")
+**Installation**
+1. Enter folder: cd mobile
+2. Install dependencies: npm install
+3.Start application: npm start
